@@ -1,0 +1,3 @@
+#' Dictionary of countries
+#'
+'dict'

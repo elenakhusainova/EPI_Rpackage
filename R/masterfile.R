@@ -1,0 +1,3 @@
+#' Master file
+#'
+'MasterFile'
