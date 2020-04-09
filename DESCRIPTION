@@ -10,6 +10,5 @@ Description: More about what it does (maybe more than one line)
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-Imports: utils
-Imports: zoo
+Imports: utils, zoo
 RoxygenNote: 6.0.1
